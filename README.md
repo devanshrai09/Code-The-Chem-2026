@@ -1,4 +1,4 @@
-# 🔥 Virtual Heat Exchanger Simulator
+## Virtual Heat Exchanger Simulator
 
 A physics-based **virtual heat exchanger simulator** developed in Julia for studying heat transfer, temperature evolution, flow configurations, and basic equipment design.
 
@@ -8,7 +8,7 @@ The project aims to go beyond a simple inlet–outlet heat-transfer calculation 
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Heat exchangers are commonly analyzed using overall heat-transfer calculations that provide quantities such as heat-transfer rate and outlet temperatures.
 
@@ -26,7 +26,7 @@ This project develops a virtual simulator that models these effects computationa
 
 ---
 
-# 🚀 Features
+#  Features
 
 ## 1. Cylindrical Heat-Transfer Model
 
